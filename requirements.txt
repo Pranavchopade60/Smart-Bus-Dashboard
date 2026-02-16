@@ -1,0 +1,17 @@
+streamlit==1.30.0
+pandas
+plotly
+joblib
+scikit-learn
+matplotlib
+
+# Enhanced Dashboard Dependencies
+plotly>=5.17.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+reportlab>=4.0.0
+streamlit-aggrid>=0.3.4
+streamlit-option-menu>=0.3.6
+streamlit-extras>=0.3.0
+hypothesis>=6.0.0

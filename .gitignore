@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+.hypothesis/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Backups and temp files
+.backups/
+.snapshots/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Demo and test files (not needed for production)
+demo_*.py
+test_*.py
+debug_*.py
+simple_viz_test.py
+verify_deployment.py
+migrate_dashboard.py
+
+# Documentation (optional - remove if you want to keep)
+*_SUMMARY.md
+*_GUIDE.md
+.kiro/

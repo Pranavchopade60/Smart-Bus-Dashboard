@@ -1,0 +1,67 @@
+{
+  "user_preferences": {
+    "theme": "dark",
+    "default_section": "Bus Allocation Overview",
+    "saved_filters": {
+      "integration_test": {
+        "date_range": {
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-31",
+          "date_column": "Date"
+        },
+        "routes": {
+          "selected_routes": [
+            "Route_A"
+          ],
+          "include_all": false
+        }
+      },
+      "last_used": {
+        "date_range": {
+          "start_date": "1970-01-01",
+          "end_date": "1970-01-01",
+          "date_column": "Baseline_Trips_per_Day"
+        },
+        "routes": null,
+        "performance": null,
+        "text_search": null
+      }
+    },
+    "accessibility_settings": {
+      "high_contrast": false,
+      "large_text": true,
+      "keyboard_navigation": true,
+      "screen_reader_support": true,
+      "reduced_motion": false,
+      "focus_indicators": true
+    },
+    "export_preferences": {
+      "default_format": "csv",
+      "include_metadata": true,
+      "compress_large_files": true,
+      "max_file_size_mb": 50
+    },
+    "visualization_settings": {
+      "chart_theme": "plotly",
+      "color_palette": "viridis",
+      "animation_enabled": true,
+      "accessibility_mode": false,
+      "default_chart_types": {
+        "allocation": "bar",
+        "forecast": "bar",
+        "sensitivity": "line",
+        "distribution": "pie"
+      },
+      "show_legends": true,
+      "show_axis_labels": true
+    },
+    "onboarding_completed": true,
+    "language": "en"
+  },
+  "system_config": {
+    "app_name": "Smart Bus Scheduling System",
+    "version": "1.0.0",
+    "data_directory": "outputs",
+    "cache_directory": ".cache"
+  }
+}
