@@ -19,7 +19,7 @@
 
 3. Run the dashboard:
    ```bash
-   streamlit run dashboard_app.py
+   streamlit run working_dashboard.py
    ```
 
 Open http://localhost:8501 in your browser.
