@@ -28,7 +28,7 @@ A modern, interactive dashboard for bus scheduling optimization with enhanced UI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-bus-dashboard.git
+git clone https://github.com/Pranavchopade/smart-bus-dashboard.git
 cd smart-bus-dashboard
 ```
 
