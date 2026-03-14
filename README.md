@@ -1,6 +1,6 @@
 
 # Streamlit Dashboard for Smart Bus Scheduling System
-# 🚌 Smart Bus Scheduling & Optimization Dashboard
+# 🚌Efficient Public Transportation Management using Route and Schedule Optimization
 
 A modern, interactive dashboard for bus scheduling optimization with enhanced UI/UX, accessibility features, and comprehensive data analysis capabilities.
 
@@ -16,7 +16,7 @@ A modern, interactive dashboard for bus scheduling optimization with enhanced UI
 
 ## 🚀 Live Demo
 
-**Dashboard URL:** [Your Streamlit Cloud URL will go here]
+**Dashboard URL:** (https://smart-bus-dashboard-pranavchopade.streamlit.app/)
 
 ## 📋 Requirements
 
@@ -101,11 +101,7 @@ pytest tests/
 
 This project was developed for the BMS Project 2024.
 
-## 👥 Credits
 
-**Developed by:** Pranav Chopade and Team  
-**Project:** BMS 2024  
-**Institution:** [Your Institution]
 
 ## 🤝 Contributing
 
@@ -113,7 +109,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions or support, please contact: [your.email@example.com]
+For questions or support, please contact: [pranavchopade60@gmail.com]
 
 ## 🙏 Acknowledgments
 
