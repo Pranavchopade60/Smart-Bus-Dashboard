@@ -99,7 +99,7 @@ pytest tests/
 
 ## 📝 License
 
-This project was developed for the BMS Project 2024.
+This project was developed by pranav chopade.
 
 
 
